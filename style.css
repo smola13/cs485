@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 .cards {
     height: 300px;
     width: 250px;
 }
 
 .header {
+=======
+.header{
+>>>>>>> master
     text-align: center;
 }
 
@@ -12,6 +16,7 @@
     padding-top: 10px;
     padding-bottom: 10px;
 }
+<<<<<<< HEAD
 
 .chart {
     margin-left: 80px;
@@ -39,4 +44,8 @@
 
 .input2 {
     width: 250px;
+=======
+.chart{
+    margin-top: 15px;
+>>>>>>> master
 }
